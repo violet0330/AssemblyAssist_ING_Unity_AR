@@ -1,6 +1,9 @@
 # AssemblyAssist_ING_Unity_AR
 Current work on project - AR prototyping system for industrial assembly guidance
 
+September work completed: use TCP Connection to complete the communication between Kinect, AR camera and the main program, which can communicate in real time.
+October work on-going: add gesture control, add auto level change.
+
 The operational flow of the projection-based AR guidance system:
 ![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/master/Img/systemFramework.png)
 
