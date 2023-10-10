@@ -1,5 +1,7 @@
 # AssemblyAssist_ING_Unity_AR
-Current work on project - AR prototyping system for industrial assembly guidance
+Current work on project - AR prototyping system for industrial assembly guidance 
+
+!!Because many of the project files are large and do not affect the main project functions, only the necessary code and instructions are included to facilitate version return and traceability!!
 
 This work presents a projected Augmented Reality (AR) prototyping system for industrial assembly guidance. 
 
