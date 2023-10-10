@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<QCARInfo>
+    <TargetSet version="36.0" toolVersion="v5.7.2">
+        <ModelTarget name="GearsBase2" targetId="09d944c0b80643c4a246fd992de8b01d" bbox="-0.076037 -0.000037 -0.000037 0.000037 0.076037 0.038427" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="DomeUnder" targetId="9880d8d99faa43f6b99efbd2fe6d07f7" bbox="-0.038061 -0.038047 0.014345 0.038047 0.038061 0.126055" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="1.0 0.0 0.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Dome" targetId="897408c59c8a497eae14389b13ded581" bbox="-0.044043 -0.044042 -0.000043 0.044042 0.044042 0.054037" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="CenterGear" targetId="165fa11c0666413fa013e2a12ed30ca0" bbox="-0.010972 -0.010972 -0.000011 0.010972 0.010972 0.014008" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="CrankAxle" targetId="120a10c676c147eb8529bf77d75fabff" bbox="0.008741 -0.005029 0.140641 0.068599 0.017962 0.150018" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="BaseLid" targetId="a9831edffb5d4539be0679c5abe02ea1" bbox="-0.038640 -0.038636 -0.000038 0.038632 0.038636 0.010559" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="Base" targetId="a2eb548e8d904e58b0cfeecdfcf47185" bbox="-0.044043 -0.044042 -0.000043 0.044043 0.044044 0.054038" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="CrankAxleGear" targetId="78b76d5f14844af9aefae0c843e118fb" bbox="-0.021717 -0.021717 -0.000021 0.021717 0.021717 0.016810" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+        <ModelTarget name="AxleBaseGear" targetId="36c1e98076eb4a97a80ae9421eb8b141" bbox="-0.031201 -0.031077 -0.000030 0.031201 0.031081 0.012852" version="13.0" toolVersion="v5.7.2" trackingMode="car" upVector="0.0 0.0 1.0" optimizeTrackingFor="default" realisticTextures="no" />
+    </TargetSet>
+    <Assembly name="GearsBase2" assemblyId="fff435df59bc492690d3d1ee946af342">
+        <Part name="GearsBase2" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="DomeUnder" assemblyId="987626ea791e440a8b602d386ce2020c">
+        <Part name="DomeUnder" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Dome" assemblyId="d73ea828a88c4bd89347476279a854f8">
+        <Part name="Dome" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="CenterGear" assemblyId="288eca1e8b6a44d69179c4838e38413f">
+        <Part name="CenterGear" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="CrankAxle" assemblyId="5e7575f656f349d498ae2ef40214914b">
+        <Part name="CrankAxle" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="BaseLid" assemblyId="e550177119aa403a935f735e846e05c4">
+        <Part name="BaseLid" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="Base" assemblyId="9f0379c552994a20b1956a5739f4757c">
+        <Part name="Base" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="CrankAxleGear" assemblyId="fb534f3aecda4fa3bf0d0a953b723300">
+        <Part name="CrankAxleGear" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <Assembly name="AxleBaseGear" assemblyId="8a42b1912a384ab9af9efeb51ff19d07">
+        <Part name="AxleBaseGear" translation="0 0 0" rotation="AD: 0 0 1 0" />
+        <EntryPoint name="(none)" trained="yes" />
+    </Assembly>
+    <ModelTargetDatabase mtDBid="2439ef4bec5b4600aff84ed8aa86e698" name="JF" toolVersion="v5.7.2" version="36.0" />
+</QCARInfo>
