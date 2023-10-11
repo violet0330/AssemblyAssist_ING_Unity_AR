@@ -4,7 +4,7 @@ Current work on project - AR prototyping system for industrial assembly guidance
 October work on-going: add gesture control, add auto level change.
 
 The operational flow of the projection-based AR guidance system:
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/master/Img/systemFramework.png)
+<img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/master/Img/systemFramework.png" width="50%" align=center>
 
 The entire App workflow:
 ![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/master/Img/appFramework.png)
