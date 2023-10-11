@@ -14,25 +14,23 @@ Preparation & Settlement Pages: <br>
 ![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/preparationPages.png)
 
 Step-by-step assembly guidance: <br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart2.gif)
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart1.gif)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart2.gif) | ![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart1.gif)
 
 Whole Product Observation & Component Observation:<br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction1.gif)
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction2.gif)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction1.gif) | ![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction2.gif)
 
 Personalization:<br>
   * change assembly sequence <br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/personalization1.gif)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/personalization1.gif){:height="50%" width="50%"}
   * upload instruction content<br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/personalization2.gif)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/personalization2.gif){:height="50%" width="50%"}
 
 ## Case Study
 My workspace setup in lab: <br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/Workspace.png)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/Workspace.png){:height="50%" width="50%"}
 
 3D Printing Project I use: <br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/jellyfish.png)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/jellyfish.png){:height="50%" width="50%"}
 
 ## Ongoing work
 September Completed:<br>
