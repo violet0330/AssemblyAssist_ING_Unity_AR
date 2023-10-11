@@ -14,10 +14,13 @@ Preparation & Settlement Pages: <br>
 ![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/preparationPages.png)
 
 Step-by-step assembly guidance: <br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart2.gif)![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart1.gif)
+  <img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart2.gif" width="50%"><img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart1.gif" width="50%">
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart2.gif)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart1.gif)
 
 Whole Product Observation & Component Observation:<br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction1.gif)![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction2.gif)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction1.gif)
+![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction2.gif)
 
 Personalization:<br>
   * change assembly sequence <br>
@@ -27,10 +30,10 @@ Personalization:<br>
 
 ## Case Study
 My workspace setup in lab: <br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/Workspace.png)
+  <img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/Workspace.png" width="50%">
 
 3D Printing Project I use: <br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/jellyfish.png)
+  <img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/jellyfish.png" width="50%">
 
 ## Ongoing work
 September Completed:<br>
