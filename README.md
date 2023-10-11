@@ -15,12 +15,9 @@ Preparation & Settlement Pages: <br>
 
 Step-by-step assembly guidance: <br>
   <img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart2.gif" width="50%"><img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart1.gif" width="50%">
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart2.gif)
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/assemblyPart1.gif)
 
 Whole Product Observation & Component Observation:<br>
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction1.gif)
-![Image](https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction2.gif)
+  <img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction1.gif" width="50%"><img src="https://github.com/violet0330/AssemblyAssist_ING_Unity_AR/blob/main/Img/interaction2.gif" width="50%">
 
 Personalization:<br>
   * change assembly sequence <br>
